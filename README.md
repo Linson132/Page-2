@@ -1,1 +1,1 @@
-<h1>V-Bucks</h1>
+<h1>V-Bucks Store</h1>
