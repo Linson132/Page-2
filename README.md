@@ -16,7 +16,7 @@
   </tr>
   <tr>
     <td>2,500</td>
-    <td>Gekyume's Forskin</td>
+    <td>$26.99</td>
  
   </tr>
   <tr>
