@@ -25,6 +25,7 @@
 
   </tr>
 </table>
+ <p>Original Page <a href="https://linson132.github.io/Random-Store/">Click Here</a> </p>
 
 </body>
 
