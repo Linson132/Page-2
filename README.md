@@ -1,27 +1,27 @@
 <h1>V-Bucks Store</h1>
 <body>
 
-<h2>Basic HTML Table</h2>
+<h2></h2>
 
 <table style="width:100%">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
+    <th>Vindertech Bucks</th>
+    <th>Price</th> 
   
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
+    <td>1,000</td>
+    <td>$10.99</td>
   
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
+    <td>2,500</td>
+    <td>Gekyume's Forskin</td>
  
   </tr>
   <tr>
-    <td>John</td>
-    <td>Doe</td>
+    <td>10,000</td>
+    <td>Two Five Dollar Fillups</td>
 
   </tr>
 </table>
